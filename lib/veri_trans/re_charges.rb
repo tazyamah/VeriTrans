@@ -1,7 +1,7 @@
 module VeriTrans
   require_relative 'api_base'
   require_relative 'setting'
-  require_relative './Request/re_charges_parameter'
+  require_relative './request/re_charges_parameter'
 
   class ReCharges < ApiBase
 

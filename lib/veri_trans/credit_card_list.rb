@@ -1,7 +1,7 @@
 module VeriTrans
   require_relative 'api_base'
   require_relative 'setting'
-  require_relative './Request/credit_card_list_parameter'
+  require_relative './request/credit_card_list_parameter'
 
   class CreditCardList < ApiBase
 

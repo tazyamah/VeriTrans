@@ -1,7 +1,7 @@
 module VeriTrans
   require_relative 'api_base'
   require_relative 'setting'
-  require_relative './Request/void_parameter'
+  require_relative './request/void_parameter'
 
   class Void < ApiBase
 

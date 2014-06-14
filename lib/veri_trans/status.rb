@@ -1,7 +1,7 @@
 module VeriTrans
   require_relative 'api_base'
   require_relative 'setting'
-  require_relative './Request/status_parameter'
+  require_relative './request/status_parameter'
 
   class Status < ApiBase
 

@@ -1,7 +1,7 @@
 module VeriTrans
   require_relative 'api_base'
   require_relative 'setting'
-  require_relative './Request/cvs_parameter'
+  require_relative './request/cvs_parameter'
 
   class Cvs < ApiBase
 

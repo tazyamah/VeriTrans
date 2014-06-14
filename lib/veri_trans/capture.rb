@@ -1,7 +1,7 @@
 module VeriTrans
   require_relative 'api_base'
   require_relative 'setting'
-  require_relative './Request/capture_parameter'
+  require_relative './request/capture_parameter'
 
   class Capture < ApiBase
 
