@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'veri_trans'
-  s.version = '0.1.1'
+  s.version = '0.1.2'
   s.summary = 'veritrans Air Direct API'
   s.description = 'A Ruby wrapper library for veritrans Air Direct API'
   s.authors = ['Yuichiro NAKAGAWA']
